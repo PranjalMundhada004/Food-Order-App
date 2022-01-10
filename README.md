@@ -21,6 +21,6 @@ This app provides you to order food online with no extra cost. Thanks to online 
 
 ### Application Link and Future Scope:
 
-You can access the app from 
+You can access the app from https://github.com/PranjalMundhada004/Food-Order-App/blob/77fdd1b83cf81217fb7d03c7035977bd51de104a/app-debug.apk
 
 Once the app is favoured by customers we will access it to many restaurants. We will also add the home delivery option and customise your own food option for more variety.
