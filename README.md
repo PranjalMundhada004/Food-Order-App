@@ -5,11 +5,11 @@ Food Order App
 
 ### Problem Statement:
 
-In this new digital era, people doesn't have time to wait in long queue for eating their favourite restaurant food. They have to wait for weekends to come to eat delicious food. Apps can help to avoid such circumstances and you can enjoy our food in the restaurant with no waiting in long queue. 
+In this new digital era, people doesn't have time to wait in long queue for eating their favourite restaurant food. They have to wait for weekends to come to eat delicious food. Apps can help to avoid such circumstances and you can enjoy the food at home with no waiting in long queue. 
 
 ### Proposed Solution:
 
-This app provides you to order food online with no extra cost. Thanks to online ordering many people manage to prevent the painful experience of wasting time in a long queue. Online ordering has enabled restaurant to manage their peak business hours very effectively. With the option to order their meals from a mobile app, they can easily place an order when they are stuck in traffic or on the way to pick up the kids. Mobile apps provide the freedom to order from any place at any time without pausing everything and making a call to the restaurant. The food experience has come a long way it has become a much more hassle-free experience for the customers. And if you can vouch for such an experience then the customers will definitely come your way. Then you can get your freshly made food from restaurant and enjoy your meal in resataurant as well as in home.
+This app provides you to order food online with no extra cost. Thanks to online ordering many people manage to prevent the painful experience of wasting time in a long queue. Online ordering has enabled restaurant to manage their peak business hours very effectively. With the option to order their meals from a mobile app, they can easily place an order when they are stuck in traffic or on the way to pick up the kids. Mobile apps provide the freedom to order from any place at any time without pausing everything and making a call to the restaurant. The food experience has come a long way it has become a much more hassle-free experience for the customers. And if you can vouch for such an experience then the customers will definitely come your way. Then you can get your freshly made food from restaurant and enjoy your meal at home.
 
 ### Functionality and concepts used:
 
@@ -21,6 +21,6 @@ This app provides you to order food online with no extra cost. Thanks to online 
 
 ### Application Link and Future Scope:
 
-You can access the app from https://github.com/PranjalMundhada004/Food-Order-App/blob/f1c5319beeb70b44b060e23deac5017ed326b6b1/app-debug%20(2).apk
+You can access the app from 
 
-Once the app is favoured by customers we will access it to many restaurants. We will also add the home delivery option and customise your own food option for more variety.
+Once the app is favoured by customers we will access it to many restaurants. We will also add customise your own food option for more variety.
